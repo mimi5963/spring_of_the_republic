@@ -1,4 +1,4 @@
-# spring_of_the_republic
+# spring_of_the_republic 共和春
  
 
  ## 학습목적
