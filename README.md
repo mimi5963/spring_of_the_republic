@@ -1,0 +1,1 @@
+# spring_of_the_republic_Effective
